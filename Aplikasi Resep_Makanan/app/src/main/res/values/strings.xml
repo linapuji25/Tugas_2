@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">AplikasiResepMakanan</string>
+    <string-array name="resep">
+        <item>Ayam Kecap Pedas Manis</item>
+        <item>Sapi Lada Hitam</item>
+        <item>Ikan Goreng Tepung Saus Asam Manis</item>
+        <item>Cumi Nanas Asam Manis Pedas</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Ayam merupakan salah satu bahan makanan yang menjadi favorite banyak orang. Ayam kecap memiliki rasa yang enak manis dan pedas, tak heran jika banyak orang suka dengan Ayam Kecap ini. Selain rasanya yang enak, membuat Ayam Kecap itu sangat mudah dan praktis.</item>
+        <item>Masakan Sapi Lada Hitam asli negeri Cina ini mungkin akan menjadi makanan favorit Anda. Cita rasa pedas akan membalut resep masakan yang satu ini. </item>
+        <item>Banyak orang mencari berbagai resep ikan saus asam manis yang beragam serta inovatif yang mudah untuk dibuat dirumah. Resep ikan saus asam manis mudah untuk dikombinasikan dengan resep bahan makanan lain sehingga menghasilkan resep ikan yang begitu lezat.  </item>
+        <item>Cumi-cumi dikenal sebagai sebuah bahan dasar masakan, penikmat dan penggemar masakan cumi juga cukup banyak. Menu ini merupakan variasi menu cumi asam manis yang dipadukan dengan bumbu nanas yang meresap dalam daging. </item>
+    </string-array>
+    <string-array name="bahan">
+        <item>  Bahan : \n
+
+                1. 500 gram ayam potong \n
+                2. 5 buah cabai rawit \n
+                3. 2 buah cabai merah besar \n
+                4. 4 siung bawang putih \n
+                5. 4 sendok makan kecap manis \n
+                6. 2 batang daun bawang \n
+                7. 1/2 ruas jahe \n
+                8. 1/2 buah bawang bombay \n
+                9. 1 1/2 sendok teh garam \n
+                10. 1/2 sendok teh merica bubuk \n
+                11. 1 buah tomat \n
+                12. 100 ml air \n
+                13. Minyak goreng secukupnya \n
+        </item>
+        <item>
+                Bahan : \n
+                1. 500 gr daging sapi bagian has, potong-potong \n
+                2. 1 sdm maizena untuk campuran daging \n
+                3. 4 siung bawang putih dicincang \n
+                4. 1 bh bawang bombay, potong kasar \n
+                5. paprika secukupnya potong2 \n
+                6. 1.5 sdm kecap manis \n
+                7. 1 sdm kecap asin \n
+                8. 1 sdt minyak wijen \n
+                9. 1 sdt saus tiram \n
+                10. 1 sdt lada hitam \n
+                11. secukupnya garam, gula dan air \n
+                12. 1 sdm maizena dilarutkan dengan air untuk mengentalkan \n
+        </item>
+        <item>
+                Bahan : \n
+                1. 300 gram Ikan gurame (cod/swordfish/tenggiri) fillet \n
+                2. 1/2 buah Wortel, iris panjang-panjang \n
+                3. 1/2 siung Bawang bombay, iris bulan sabit \n
+                4. 1 siung bawang putih, cincang halus \n
+                5. 2 sendok makan air perasan lemon \n
+                6. secukupnya garam \n
+                7. secukupnya lada bubuk \n
+                8. 2 sendok makan tepung terigu \n
+                9. 2 sendok makan saus tomat \n
+                10. 1/2 sendok teh saus cabai \n
+                11. 1/2 sendok makan tepung maizena, larutkan dengan air \n
+                12. 1 sendok teh gula pasir \n
+                13. secukupnya olive oil \n
+                14. 1 batang daun bawang, iris \n
+
+        </item>
+        <item>
+                Bahan : \n
+                1. 1 kg cumi \n
+                2. 4 bawang putih rajang halus \n
+                3. 3 bawang merah rajang halus \n
+                4. 1 bawang bombay ukuran sedang rajang kasar \n
+                5. 1 cabe besar iris serong \n
+                7. 1 sdm mentega/margarin \n
+                8. 4 potong nanas ukuran sedang,di potong serong kecil \n
+                9. 1 wortel iris panjang \n
+                10. 1 timun buah isinya iris \n
+                11. 1 daun bawang rajang kasar \n
+                12. 1 sdm air lemon \n
+                13. 3 sdm saos cabe \n
+                14. 2 sdm saos tiram \n
+                15. 1 sdt garam,lada putih,gula \n
+
+        </item>
+    </string-array>
+    <string-array name="cara">
+        <item>
+                Cara Memasak : \n
+                1. Potong ayam jadi enam bagian. \n
+                2. Memarkan bawang putih dan jahe. \n
+                3. Potong-potong tomat seukuran dadu dan iris halus cabai rawit. \n
+                4. Panaskan minyak. \n
+                5. Kemudian goreng ayam hingga setengah matang. \n
+                6. Tumis jahe, bawang bombay, dan bawang putih. \n
+                7. Tambahkan kecap manis, air, garam, dan lada. \n
+                8. Setelah itu masukkan tomat dan daun bawang. \n
+                9. Aduk sebentar sampai cukup layu, kemudian angkat. \n
+        </item>
+        <item>  Cara Memasak : \n
+                1. Daging sapi beri sedikit kecap asin, lalu campur maizena. \n
+                2. Tumis daging sebentar, lalu angkat. \n
+                3. Sisihkan tumis daging sebentar. \n
+                4. Tumis bawang bombay, bawang putih, paprika sampai harum. \n
+                5. Masukkan semua kecap, saus dkk beri air, garam, gula. \n
+                6. Masukkan daging. \n
+                7. Masak sampai bumbu meresap. \n
+                8. Angkat dan sajikan \n
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Lumuri ikan dengan air perasan lemon dan garam. \n
+                2. Campurkan tepung terigu, tepung maizena, lada, garam. \n
+                3. Gulingkan ikan ke campuran tepung, tepuk-tepuk.\n
+                4. Goreng ikan hingga berwarna keemasan, angkat dan tiriskan. \n
+                5. Panaskan minyak, lalu tumis bawang putih dan bawang bombay. \n
+                6. Masukkan wortel, daun bawang, saus cabai, gula, garam, air. \n
+                7. Masukkan larutan tepung maizena, lalu aduk-aduk. \n
+                8. Siramkan saus ke atas ikan goreng tepung. \n
+        </item>
+        <item>
+                Cara Memasak : \n
+                1. Bersihkan cumi buang tinta dan kulitnya. Lalu rendam dan air lemon. \n
+                2. Setelah semua bahan siap, siap kan teflon atau wajan. \n
+                3. Ambil mentega, tumis bawang putih dan merah. \n
+                4. Beri air sedikit,kemudian tambahkan saos tomat,tiram,dan cabe. \n
+                5. Tambahkan garam,gula dan lada putih dan cabe besar nya. \n
+                6. Masukkan wortel dan timun aduk-aduk diamkan 1 menit. \n
+                7. Kemudian masukkan cumi aduk rata diamkan 1 menit. \n
+                8. Masukkan nanas, aduk diamkan 5 menit.Beri air lemon dan daun bawang. \n
+        </item>
+    </string-array>
+    <string-array name="judul">
+        <item>Cara 1</item>
+        <item>Cara 2</item>
+        <item>Cara 3 </item>
+        <item>Cara 4 </item>
+    </string-array>
+
+</resources>
